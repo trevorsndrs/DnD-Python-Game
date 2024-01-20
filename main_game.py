@@ -1,7 +1,6 @@
 import os
 import random
 import character_info
-import starting_equipment
 
 # PLAYER ATTRIBUTES #####################################################
 name = ""
